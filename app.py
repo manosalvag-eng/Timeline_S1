@@ -1,7 +1,9 @@
 import streamlit as st
 
-st.title("Timeline con Slider")
-
+# Título de la aplicación
+st.title("Detección de transacciones fraudulentas | Timeline")
+st.write("Autor: Gerson Manosalva Guerrero | BCP")
+st.write("Interactúa con la barra deslizante para explorar los hitos más importantes en la historia de las transacciones fraudulentas.")
 # Lista de imágenes en GitHub (raw URLs)
 # Reemplaza USER, REPO y RUTA según tu repositorio
 image_urls = [
