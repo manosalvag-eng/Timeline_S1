@@ -5,11 +5,11 @@ st.title("Timeline con Slider")
 # Lista de imágenes en GitHub (raw URLs)
 # Reemplaza USER, REPO y RUTA según tu repositorio
 image_urls = [
-    "https://raw.githubusercontent.com/USER/REPO/main/timeline_images/img1.png",
-    "https://raw.githubusercontent.com/USER/REPO/main/timeline_images/img2.png",
-    "https://raw.githubusercontent.com/USER/REPO/main/timeline_images/img3.png",
-    "https://raw.githubusercontent.com/USER/REPO/main/timeline_images/img4.png",
-    "https://raw.githubusercontent.com/USER/REPO/main/timeline_images/img5.png",
+    "https://raw.githubusercontent.com/manosalvag-eng/Timeline_S1/main/Timeline_images/timeline1.png",
+    "https://raw.githubusercontent.com/manosalvag-eng/Timeline_S1/main/Timeline_images/timeline2.png",
+    "https://raw.githubusercontent.com/manosalvag-eng/Timeline_S1/main/Timeline_images/timeline3.png",
+    "https://raw.githubusercontent.com/manosalvag-eng/Timeline_S1/main/Timeline_images/timeline4.png",
+    "https://raw.githubusercontent.com/manosalvag-eng/Timeline_S1/main/Timeline_images/timeline5.png",
 ]
 
 # Slider de 1 a 5
